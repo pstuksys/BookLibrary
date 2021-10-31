@@ -1,0 +1,60 @@
+{
+  "paulius Stuksys": [
+    {
+      "name": "Zab Daiela",
+      "author": "zubzub and fun",
+      "category": "action",
+      "language": "english",
+      "PublicationDate": "1990-01-01",
+      "ISBN": "123-44-1231",
+      "GUID": "1"
+    },
+    {
+      "name": "Zab Daiela",
+      "author": "zubzub and fun",
+      "category": "action",
+      "language": "english",
+      "PublicationDate": "1990-01-01",
+      "ISBN": "123-44-1231",
+      "GUID": "11"
+    },
+    {
+      "name": "Zab Daiela",
+      "author": "zubzub and fun",
+      "category": "action",
+      "language": "english",
+      "PublicationDate": "1990-01-01",
+      "ISBN": "123-44-1231",
+      "GUID": "111"
+    }
+  ],
+  "paulius Stuksys1": [
+    {
+      "name": "Zab Daiela",
+      "author": "zubzub and fun",
+      "category": "action",
+      "language": "english",
+      "PublicationDate": "1990-01-01",
+      "ISBN": "123-44-1231",
+      "GUID": "1"
+    },
+    {
+      "name": "Zab Daiela",
+      "author": "zubzub and fun",
+      "category": "action",
+      "language": "english",
+      "PublicationDate": "1990-01-01",
+      "ISBN": "123-44-1231",
+      "GUID": "11"
+    },
+    {
+      "name": "Zab Daiela",
+      "author": "zubzub and fun",
+      "category": "action",
+      "language": "english",
+      "PublicationDate": "1990-01-01",
+      "ISBN": "123-44-1231",
+      "GUID": "111"
+    }
+  ]
+}
